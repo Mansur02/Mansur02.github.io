@@ -42,7 +42,7 @@ $(document).ready(function() {
 	//Документация: http://owlgraphic.com/owlcarousel/
 	var owl = $(".carousel");
 	owl.owlCarousel({
-		items : 2,
+		items : 1,
         autoHeight : true
 	});
 	owl.on("mousewheel", ".owl-wrapper", function (e) {
