@@ -1,0 +1,247 @@
+.header_topline {
+background-image: url(../img/rAVrcGw6-0E.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+min-height:200px;
+background-size:cover;
+background-position:center;
+padding-bottom:120px;   
+}
+.maian_mnu {
+	background-color: #3797bf;
+	color: #fff;
+	margin-bottom: 20px;
+}
+.left_button a{
+    color: white;
+}
+.maian_mnu a {
+	color: #fff;
+	padding: 15px;
+	display: block;
+	-webkit-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s;
+}
+.maian_mnu a:hover {
+	background-color: #2787af;
+}
+.maian_mnu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+    text-align: center;
+}
+.maian_mnu ul li {
+	display: inline-block;
+}
+.top_contacts{
+	color: #332F37;
+		float: right;
+    margin-top: 14px;
+    }
+.hidden {
+	display: none;
+}
+.pop_form input[type="text"] {
+    display: block;
+    line-height: 24px;
+    margin: 0 auto 12px;
+    width: 90%;
+    border: #999 3px solid;
+}
+.pop_form .button {
+	margin: 20px auto 0;
+}
+.pop_form h3 {
+    margin: 10px auto 15px;
+    text-align: center;
+    font-weight: normal;
+    font-family: "RobotoCondensedBold";
+    text-transform: uppercase;
+}
+.button {
+    background-color: #2bc6a4;
+    border: medium none;
+    border-radius: 15px;
+    color: #fff;
+    display: block;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.button:hover {
+	background-color: #4feac8;
+}
+.button:active {
+	background-color: #14af8d;
+}
+.top_text{
+    font-family: "RobotoRegular", sans-serif;
+	font-size: 26px;
+    color: sandybrown;
+}
+.top_contacts{
+    text-align: right;
+    margin-right: 10px;
+}
+.left_mnu{
+  
+}
+.content_block{
+
+}
+.sider_container img {
+	max-width: 100%;
+}
+.sider_container {
+	position: relative;
+margin-bottom: 20px;
+}
+.next_button, .prev_button {
+	background-color: #B8B8B8;
+	border-radius: 10em;
+	color: #fff;
+	cursor: pointer;
+	font-size: 46px;
+	padding: 0 25px;
+	position: absolute;
+	top: 40%;
+	z-index: 10;
+}
+.next_button {
+	right: 20px;
+}
+.prev_button {
+	left: 20px;
+}
+.text_content{
+     font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+    padding-left: 10px;
+}
+.content_button{
+    margin-top: 20px;
+}
+.ofer{
+   margin: 20px;
+       text-align: center;
+}
+.ofer_text{
+  font-family: "RobotoRegular", sans-serif;
+	font-size: 26px;
+    
+}
+.item_text{
+    font-family: "RobotoRegular", sans-serif;
+	font-size: 18px;
+}
+.left_button{
+    margin-top: 10px;
+     color: white;
+background-color:#4AAAD2;
+border-style:none;
+   padding: 15px 65px 15px 65px;
+     border-radius: 15px;
+    width: 230px;
+}
+.stat{
+    margin-top: 20px;
+}
+.zag_stat{
+   font-family: "RobotoRegular", sans-serif;
+	font-size: 18px;
+    color: #4AAAD2;
+}
+.detailed_stat{
+      font-family: "RobotoRegular", sans-serif;
+	font-size: 14px; 
+     color: #4AAAD2;
+}
+.table_price{
+   margin-top: 10px;
+       text-align: center;   
+}
+.table_text{
+     font-family: "RobotoRegular", sans-serif;
+	font-size: 26px;
+    margin: 10px;
+    
+}
+.name_goods{
+         font-family: "RobotoRegular", sans-serif;
+	font-size: 18px;
+
+}
+.price_goods{
+     font-family: "RobotoRegular", sans-serif;
+	font-size: 18px; 
+    color: red;
+}
+.table_1{
+}
+.table_2{
+    
+}
+table{
+    height: 550px;
+    width: 750px;
+     border: 1px solid black;
+}
+.work_text{
+         font-family: "RobotoRegular", sans-serif;
+	font-size: 26px;
+    margin-right:100px;
+    
+}
+.footer{
+    background-color: #332F37;
+   background-size: 100%;
+min-height:200px;
+background-size:cover;
+background-position:center;
+padding-bottom:120px;
+}
+
+.footer_mnu{
+	color: #fff;
+}
+.footer_mnu a {
+	color: #fff;
+
+
+	-webkit-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s;
+}
+.footer_mnu a:hover {
+	background-color: #2787af;
+}
+.footer_mnu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+    text-align: center;
+}
+.footer_mnu ul li {
+	    font-family: "RobotoRegular", sans-serif;
+	font-size: 14px;
+}
+.copy{
+  color: #fff; 
+    text-align: center;
+    margin-top: 10px;
+}
+.phone{
+    color: #fff; 
+    text-align: center;
+    margin-top: 10px;
+}
+.zag_text{
+      font-family: "RobotoRegular", sans-serif;
+	font-size: 26px;
+    text-align: center;
+}
+.item_1{
+    margin-top: 20px;
+}
